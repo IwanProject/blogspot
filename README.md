@@ -17,6 +17,11 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
+### Generate Data Dummy with Seeder
+```bash
+php artisan db:seed
+```
+
 
 ### Run applications
 ```bash
